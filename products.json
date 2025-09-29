@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": 2,
+    "name": "Computador gamer con GTX1060 😕",
+    "price": 1000,
+    "quantity": 5
+  },
+  {
+    "id": 3,
+    "name": "Control GameSir",
+    "price": 2500,
+    "quantity": 5
+  },
+  {
+    "id": 4,
+    "name": "Freidora de aire🍔🍟",
+    "price": 1500,
+    "quantity": 8
+  },
+  {
+    "id": 5,
+    "name": "Teclado Gamer muy pulento 😁",
+    "price": 1500,
+    "quantity": 3
+  },
+  {
+    "id": 6,
+    "name": "Donuts, yum! 🍩🍩🍩🍩",
+    "price": 500,
+    "quantity": 30
+  }
+]
